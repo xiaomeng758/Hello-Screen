@@ -1,0 +1,4 @@
+﻿  源.cpp
+源.obj : error LNK2001: 无法解析的外部符号 "public: static struct ITaskFolder * CMyTaskSchedule::m_lpRootFolder" (?m_lpRootFolder@CMyTaskSchedule@@2PEAUITaskFolder@@EA)
+源.obj : error LNK2001: 无法解析的外部符号 "public: static struct ITaskService * CMyTaskSchedule::m_lpITS" (?m_lpITS@CMyTaskSchedule@@2PEAUITaskService@@EA)
+C:\Users\29763\Documents\VS\Project3\x64\Release\试验.exe : fatal error LNK1120: 2 个无法解析的外部命令
